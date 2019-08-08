@@ -24,3 +24,4 @@ Things you may want to cover:
 * ...
 
 //GUIDE for the application
+https://www.airpair.com/reactjs/posts/reactjs-a-guide-for-rails-developers
